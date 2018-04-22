@@ -3,11 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://nathan.thebenjamins.me/</loc>
+    <loc>http://nathan.thebenjamins.me/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://nathan.thebenjamins.me/categories/</loc>
+    <loc>http://nathan.thebenjamins.me/</loc>
     <priority>0</priority>
   </url>
   
